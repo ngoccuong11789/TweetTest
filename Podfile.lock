@@ -22,7 +22,7 @@ DEPENDENCIES:
   - BDBOAuth1Manager (= 2.0.0)
 
 SPEC CHECKSUMS:
-  AFNetworking: 932ff751f9d6fb1dad0b3af58b7e3ffba0a4e7fd
-  BDBOAuth1Manager: 92d17d06f8a648602962304cd2f35ae7394fa001
+  AFNetworking: c3427cc511da11b8294c93792d6be9b0e1de66fa
+  BDBOAuth1Manager: 72c31e68a19d9fdae5da915d3e1fb6991d95f136
 
 COCOAPODS: 0.39.0

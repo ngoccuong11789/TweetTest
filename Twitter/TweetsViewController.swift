@@ -16,6 +16,10 @@ class TweetsViewController: UIViewController,UITableViewDataSource, UITableViewD
     var user : User!
     let myRequest = NSURLRequest()
     
+    func favorite(statusTwitterViewCell: StatusTwitterViewCell) {
+        print(123)
+    }
+    
     var detailContent: Tweet!
     override func viewDidLoad() {
         super.viewDidLoad()

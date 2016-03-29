@@ -7,8 +7,6 @@
 		<key>NSAllowsAribitraryLoads</key>
 		<true/>
 	</dict>
-	<key>LSApplicationCategoryType</key>
-	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -34,12 +32,14 @@
 			<string>Twitter</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>twitterdemo</string>
+				<string>twitterdemo1</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>1</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
